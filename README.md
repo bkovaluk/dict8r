@@ -15,7 +15,7 @@ dict8r is a command-line tool written in Rust for dictating text replacements in
 To build dict8r from source, ensure you have Rust installed on your system. Then, clone this repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/dict8r.git
+git clone https://github.com/bkovaluk/dict8r.git
 cd dict8r
 ```
 
